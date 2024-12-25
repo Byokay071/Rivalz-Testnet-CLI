@@ -14,10 +14,16 @@ nvm install 20.0.0
 nvm use 20.0.0
 
 #Ardından Screen Oluşturuyoruz#
+
+
 screen -S rivalz
 
 #CLI Yükleme Komutu#
+
+
 npm i -g rivalz-node-cli
 
 #Rivalz'ı Çalıştırmak İçin Komutu Girelim (EVM adresimizi ve ne kadar bir alan kullanmak istediğimizi belirleyelim)#
+
+
 rivalz run
